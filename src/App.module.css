@@ -1,0 +1,17 @@
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.info {
+  text-align: center;
+}
+
+.img {
+  width: 300px;
+  height: 300px;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
